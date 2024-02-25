@@ -1,5 +1,4 @@
 ---
-layout: blog
 title: el fallido
 description: este es el fallido
 pubDate: 2024-02-25T14:54:07.997Z

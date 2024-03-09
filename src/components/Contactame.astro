@@ -1,0 +1,28 @@
+---
+const { class: className } = Astro.props;
+---
+
+<div class="p-5 lg:px-20 sm:text-left text-center">
+    <h1 class="text-6xl sm:text-7xl md:text-8xl font-bold mb-2">Pactamos una entrevista?</h1>
+    <h2
+        class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-monospace mb-10 text-black dark:text-white"
+    >
+
+    </h2>
+
+<!-- Principio del widget de enlace de Calendly -->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<a href="" onclick="Calendly.initPopupWidget({url: 'https://calendly.com/benditamiraiz/55min'});return false;">Programe una reunión conmigo</a>
+<!-- Final del widget de enlace de Calendly -->
+
+
+
+
+
+<!-- Principio del widget de globo de Calendly Globo para los posteos-->
+<link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
+<script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript" async></script>
+<script type="text/javascript">window.onload = function() { Calendly.initBadgeWidget({ url: 'https://calendly.com/benditamiraiz/55min', text: 'Programe una reunión conmigo', color: '#0069ff', textColor: '#ffffff', branding: undefined }); }</script>
+<!-- Final del widget de globo de Calendly -->
+

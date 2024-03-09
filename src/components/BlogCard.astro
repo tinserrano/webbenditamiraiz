@@ -1,0 +1,47 @@
+---
+// Importa las herramientas necesarias de Astro
+import { getCollection } from 'astro:content';
+
+// Carga todas las entradas del blog, ordenadas por fecha de publicación de manera descendente
+const posts = (await getCollection('blog')).sort(
+	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf()
+);
+
+// Limita los resultados a las últimas 3 entradas
+const latestBlogPosts = posts.slice(0, 3);
+// Importa los componentes que usarás en la página
+import FormattedDate from '../components/FormattedDate.astro';
+const { class: className } = Astro.props;
+---
+<body>
+    <section>
+        <h2 class="text-3xl font-bold mb-6 text-center md:text-center">Ultimas entradas del blog</h2>
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
+            {latestBlogPosts.map((post) => (
+                <article key={post.url} class="flex flex-col items-center md:items-center text-center md:text-center">
+                    <a href={`/blog/${post.slug}/`} class="flex-1 w-full">
+                        <div class="flex justify-center">
+                            <!-- Centra la imagen en todas las pantallas -->
+                            {post.data.heroImage && (
+                                <img src={post.data.heroImage} alt={post.data.title} class="w-96 h-48 mb-2 rounded-lg shadow object-cover"/>
+                            )}
+                        </div>
+                        <h3 class="text-lg font-semibold mb-2">{post.data.title}</h3>
+                        <!-- Oculta la fecha en pantallas pequeñas -->
+                        <div class="text-sm text-gray-500 hidden md:block">
+                            <FormattedDate date={post.data.pubDate}/>
+                        </div>
+                    </a>
+                </article>
+            ))}
+        </div>
+        <div class="flex justify-center pt-6">
+            <a href="/blog" class="inline-block px-4 py-2 bg-blue-500 text-white rounded-lg mr-8 hover:bg-blue-600 transition-colors" data-test="see-all-link">
+                Ver Todos <span class="squiggle">&rarr;</span>
+            </a>
+        </div>
+    </section>
+</body>
+</html>
+
+

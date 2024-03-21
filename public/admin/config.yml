@@ -5,14 +5,21 @@ backend:
 #publish:mode: editorial_workflow
 
 
-media_folder: "/assets" # Media files will be stored in the repo under static/images/uploads
-# media_folder: "/" # Media files will be stored in the repo under static/images/uploads
-public_folder: "/assets" # The src attribute for uploaded media will begin with /images/uploads
+# media_folder: "/assets" # Media files will be stored in the repo under static/images/uploads
+# # media_folder: "/" # Media files will be stored in the repo under static/images/uploads
+# public_folder: "/assets" # The src attribute for uploaded media will begin with /images/uploads
+
+
+media_folder: "public/uploads"  # Directorio para archivos cargados
+public_folder: "/uploads"       # Cómo se referenciarán los archivos en el contenido
+
+
 
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
-    folder: "src/content/blog" # The path to the folder where the documents are stored
+    folder: "content/blog" # The path to the folder where the documents are stored
+    # folder: "src/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
     slug: "{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     fields: # The fields for each document, usually in front matter

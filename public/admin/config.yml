@@ -5,7 +5,8 @@ backend:
 #publish:mode: editorial_workflow
 
 
-media_folder: "src/assets" # Media files will be stored in the repo under static/images/uploads
+# media_folder: "src/assets" # Media files will be stored in the repo under static/images/uploads
+media_folder: "/" # Media files will be stored in the repo under static/images/uploads
 public_folder: "/assets" # The src attribute for uploaded media will begin with /images/uploads
 
 collections:
@@ -20,5 +21,4 @@ collections:
       - { label: "Description", name: "description", widget: "string" }
       - { label: "Publish Date", name: "pubDate", widget: "datetime" }
       - { label: "Hero Image", name: "heroImage", widget: "image" }
-      - { label: "Rating (scale of 1-5)", name: "rating", widget: "number" }
       - { label: "Body", name: "body", widget: "markdown" }

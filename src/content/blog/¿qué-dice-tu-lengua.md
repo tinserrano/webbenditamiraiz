@@ -4,9 +4,9 @@ description: "lengua y ayurveda "
 pubDate: 2024-04-01T13:48
 heroImage: /uploads/lengua-portada.jpeg
 ---
-[](https://calendly.com/benditamiraiz/55min)La lengua es órgano muscular ubicado en la cavidad oral . Es un tesoro que nos regala la naturaleza y nuestro cuerpo físico, ya que es el unico organo interno capaz de comunicarse con el medio externo, por lo tanto es capaz de comunicar lo que sucede en nuestro mundo orgánico interno. A través del estudio de la lengua podemos ser capaces de entender cómo estamos funcionando orgánicamente, obteniendo así, el enorme beneficio de poder actuar en prevención y abordaje de manera autónoma e independiente. 
+[](https://calendly.com/benditamiraiz/55min)La lengua es un órgano muscular ubicado en la cavidad oral. Es un tesoro que nos regala la naturaleza y nuestro cuerpo físico, ya que es el unico organo interno capaz de comunicarse con el medio externo. A través del estudio de la lengua podemos ser capaces de entender cómo estamos funcionando orgánicamente, obteniendo así, el enorme beneficio de poder actuar en prevención y abordaje de manera autónoma e independiente. 
 
-Pero ojo. La lengua también tiene además, funciones importantísimas como: la facilitación del habla, la función masticatoria, deglución y la percepción del gusto.
+Pero ojo, la lengua también tiene funciones importantísimas como: la facilitación del habla, la función masticatoria, deglución y la percepción del gusto.
 
 ¿Cuántas veces nos han salido ampollas o llagas en la boca luego de una comida rica en grasas procesadas o cuando nuestro hígado no anda bien? ahhh es que la lengua habla, escuchemosla...
 

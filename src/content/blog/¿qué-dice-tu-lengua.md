@@ -46,9 +46,9 @@ Milu,  ¿y si encuentro un desequilibrio como hago para abordarlo? puedes reserv
 
 o bien puedes intentar volver al equilibrio tu mismo, siguiendo los siguientes pasos...
 
-1. Identifica el color de la toxina quien te dirá que tipo de elemento está en desequilibrio. Recuerda, blanco kapha, amarillo pitta, gris u opaco vata. 
-2. Luego identifica la zona de la lengua quien te avisara que órgano está comprometido .
-3. Realiza una rutina diaria de alimentos y actividades destinadas a equilibrar ese órgano en y dosha en particular.
+1. ###### I*dentifica el color de la toxina quien te dirá que tipo de elemento está en desequilibrio. Recuerda, blanco kapha, amarillo pitta, gris u opaco vata.* 
+2. ###### *Luego identifica la zona de la lengua quien te avisara que órgano está comprometido .*
+3. ###### *Realiza una rutina diaria de alimentos y actividades destinadas a equilibrar ese órgano en y dosha en particular.*
 
 Recuerda no estresarte y si hay algo que no comprendes puedes escribirme para acompañarte en el proceso.
 

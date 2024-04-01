@@ -4,7 +4,7 @@ description: "otoño ayurveda frio seco desequilibrios costipacion insomio dolor
 pubDate: 2024-03-22T00:56:40.378Z
 heroImage: /uploads/otoño.webp
 ---
-Cuando nombramos otoño, devienen a nuestro mente, imágenes, aromas y sensaciones que nuestro cerebro toma de nuestros recuerdos para anticiparnos a lo que vendrá, en este caso un clima más seco y fresco. 
+Cuando nombramos otoño, deviene a nuestro mente, imágenes, aromas y sensaciones que nuestro cerebro toma de nuestros recuerdos para anticiparnos a lo que vendrá, en este caso un clima más seco y fresco. 
 
 Desde el punto de vista ayurvédico, el otoño es una estación del año predominantemente vata, es decir, aire y éter. sus gunas ( características en sánscrito) son : frío, seco y  liviano. si a nivel mental o físico tenemos una predisposición a estos elementos, entonces es en esta estación donde más necesitas prestar atención ya que la sumatoria de estas dos potencias pueden desequilibrarte. 
 

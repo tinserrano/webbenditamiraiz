@@ -20,7 +20,7 @@ Desde el punto de vista ayurvédico la lengua proyecta el estado de nuestros ór
 
 > *Vata se encuentra en la región posterior de la lengua , desde intestinos hacia atrás.*
 >
-> *Pitta comprende la región central , desde páncreas hasta el estómago y desde la región del corazón hacia delante estará presente kapha.* 
+> *Pitta comprende la región central. Desde páncreas hasta el estómago y desde la región del corazón hacia delante estará presente kapha.* 
 
 Observemos esta imagen y también guárdala en tu celular como guia para tu autocuidado. 
 

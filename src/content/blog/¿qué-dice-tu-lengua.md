@@ -60,8 +60,8 @@ Namaste.
 
 Milu.
 
-> `lic. Terapia ocupacional `
->
-> `Esp en rehabilitación neurológica.`
->
-> `Post graduada en Medicina integrativa ayurvédica`
+*`lic. Terapia ocupacional`* 
+
+*`Esp en rehabilitación neurológica.`*
+
+*`Post graduada en Medicina integrativa ayurvédica`*

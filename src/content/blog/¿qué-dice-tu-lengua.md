@@ -4,15 +4,15 @@ description: "lengua y ayurveda "
 pubDate: 2024-04-01T13:48
 heroImage: /uploads/lengua-portada.jpeg
 ---
-La lengua es órgano muscular ubicado en la cavidad oral y es un tesoro que nos regala la naturaleza y nuestro cuerpo físico ya que es el unico organo interno capaz de comunicarse con el medio externo, por lo tanto es capaz de comunicar lo que sucede en nuestro sistema interno .  A través del estudio de  la lengua podemos ser capaces de entender cómo estamos funcionando orgánicamente, obteniendo así, el enorme beneficio de poder actuar en prevención y abordaje de manera autonoma e independiente. 
+[](https://calendly.com/benditamiraiz/55min)La lengua es órgano muscular ubicado en la cavidad oral y es un tesoro que nos regala la naturaleza y nuestro cuerpo físico ya que es el unico organo interno capaz de comunicarse con el medio externo, por lo tanto es capaz de comunicar lo que sucede en nuestro sistema interno .  A través del estudio de  la lengua podemos ser capaces de entender cómo estamos funcionando orgánicamente, obteniendo así, el enorme beneficio de poder actuar en prevención y abordaje de manera autónoma e independiente. 
 
-pero ojo, la lengua tambien tiene ademas,  Funciones inportanticimas como :  la facilitación del habla, la función masticatoria, deglución y la percepción del gusto.
+pero ojo, la lengua tambien tiene ademas,  Funciones importantísimas como: la facilitación del habla, la función masticatoria, deglución y la percepción del gusto.
 
 ¿Cuántas veces nos han salido ampollas o llagas en la boca luego de una comida rica en grasas procesadas o cuando nuestro hígado no anda bien? ahhh es que la lengua habla, escuchemosla...
 
 En la lengua se encuentran un sinfín de papilas gustativas que envían información sensorial de la diversidad de sabores y texturas al cerebro desencadenando una cascada de reacciones químicas cuya funciones nos predisponen activamente al momento de alimentación e inicio de la digestión.
 
-Gracias a la presencia de papilas gustativas podemos identificar cuándo estamos consumiendo sustancias nocivas o tóxicas y de esta manera abandonar la ingesta como si tambien , odentificar sabores que nos transportan a lugares unicos emocionalmente hablando. 
+Gracias a la presencia de papilas gustativas podemos identificar cuándo estamos consumiendo sustancias nocivas o tóxicas y de esta manera abandonar la ingesta como asi también, la identificación de sabores  nos transportan a lugares únicos emocionalmente hablando. 
 
 Desde el punto de vista ayurvédico la lengua proyecta el estado de nuestros órganos internos lo cual nos da una gran posibilidad de acción dirigida al autocuidado. Para ello es importante reconocer en qué regiones de la lengua se encuentran los doshas.
 
@@ -22,9 +22,9 @@ Pitta comprende la región central , desde páncreas hasta el estómago y desde 
 
 Observemos esta imagen y también guárdala en tu celular como guia para tu autocuidado. 
 
-![]()
+![](/uploads/equilibrio-toxinas_clip_image002.jpeg)
 
-¿cómo reconocer el origen de mi toxina? los colores nos dicen mucho!
+¿Cómo reconocer el origen de mi toxina? los colores nos dicen mucho!
 
 Si mi lengua....
 
@@ -34,26 +34,22 @@ Tiene una capa amarilla o rojiza significa que estás formando desbalance en Pit
 
 Tiene una capa gris hay un desbalance en Vata, por lo tanto resequedad: realiza una dieta humectante, hidratante y tibia.
 
-Además, debemos saber, que los cambios en la coloración pueden darse en zonas o áreas específicas donde refleja el desequilibrio de un órgano en particular por eso, ten en cuenta la imagen anterior y recuerda las zonas de los organos. Este ilustracion puede acompañarte diariamente y de esta manera actuar en consecuencia moviéndonos hacia la salud y el equilibrio.
+Además, debemos saber, que los cambios en la coloración pueden darse en zonas o áreas específicas donde refleja el desequilibrio de un órgano en particular por eso, ten en cuenta la imagen anterior y recuerda las zonas de los órganos. Este ilustración puede acompañarte diariamente y de esta manera actuar en consecuencia moviéndonos hacia la salud y el equilibrio.
 
-Ahora, quiero compartirte las zonas de desequilibrios abituales, por si al sacar la lengua te encuentras con algunos de estos panoramas
+Ahora, quiero compartirte las zonas de desequilibrios habituales, por si al sacar la lengua te encuentras con algunos de estos panoramas
 
-Image
+![](/uploads/lengua13.jpeg)
 
-Image
+Milu, ¿y si encuentro un desequilibrio como hago para abordarlo? puedes reservar una cita para que lo veamos junto/as  haciendo clic aquí: <https://calendly.com/benditamiraiz/55min>
 
-Choose different imageReplace with URLRemove image
+o bien puedes intentar volver al equilibrio tu mismo, seguiendo los siguientes pasos...
 
-Alt Text
+1. Identifica el color de la toxina quien te dirá que tipo de elemento está en desequilibrio. recuerda, blanco kapha, amarillo pitta, gris u opaco vata. 
+2. Luego identifica la zona de la lengua quien te avisara que órgano está comprometido .
+3. Realiza una rutina diaria de alimentos y actividades destinadas a equilibrar ese órgano en y dosha en particular.
 
-Title
+Recuerda no estresarte y si hay algo que no comprendes puedes escribirme para acompañarte en el proceso.
 
-Milu, ¿y si encuentro un desequilibrio como hago para abordarlo? puedes reservar una cita para que lo veamos junto/as o bien puedes seguir los siguientes pasos...
+Vamos es hora de sacar la lengua!
 
-identifica el color de la toxina quien te dirá que tipo de elemento está en desequilibrio luego identifica la zona quien te avisara que órgano está comprometido . Paso siguiente, realiza una rutina diaria de alimentos y actividades destinadas a equilibrar ese órgano en particular.
-
-recuerda no estresarte y si hay algo que no comprendes puedes escribirme para acompañarte en el proceso.
-
-vamos es hora de sacar la lengua!
-
-Namaste .
+Namaste.

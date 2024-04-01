@@ -12,7 +12,7 @@ Pero ojo, la lengua también tiene funciones importantísimas como: la facilitac
 
 ¿Cuántas veces nos han salido ampollas o llagas en la boca luego de una comida rica en grasas procesadas o cuando nuestro hígado no anda bien? ahhh es que la lengua habla, escuchemosla...
 
-En la lengua se encuentran un sinfín de papilas gustativas que envían información sensorial al sistema nervioso central sobre de la diversidad de sabores y texturas desencadenando una cascada de reacciones químicas cuya funciones nos predisponen activamente al momento de alimentación e inicio de la digestión.
+En la lengua se encuentran un sinfín de papilas gustativas que envían información sensorial al sistema nervioso central sobre la diversidad de sabores y texturas que recibe, desencadenando asi una cascada de reacciones químicas cuya funciones nos predisponen activamente al momento de alimentación e inicio de la digestión.
 
 Gracias a la presencia de papilas gustativas podemos identificar cuándo estamos consumiendo sustancias nocivas o tóxicas y de esta manera abandonar la ingesta, como asi también, la identificación de sabores nos transportan a lugares únicos emocionalmente hablando.
 

@@ -34,6 +34,8 @@ Observemos esta imagen y también guárdala en tu celular como guia para tu auto
 * Tiene una capa amarilla o rojiza significa que estás formando desbalance en Pitta o inflamación: realiza una dieta amarga, refrescante y dulce .
 * Tiene una capa gris hay un desbalance en Vata, por lo tanto resequedad: realiza una dieta humectante, hidratante y tibia.
 
+
+
 Además, debemos saber, que los cambios en la coloración pueden darse en zonas o áreas específicas donde refleja el desequilibrio de un órgano en particular. Por eso, ten en cuenta la imagen anterior y recuerda las zonas de los órganos. Este ilustración puede acompañarte diariamente y de esta manera actuar en consecuencia moviéndonos hacia la salud y el equilibrio.
 
 Ahora, quiero compartirte las zonas de desequilibrios habituales, por si al sacar la lengua te encuentras con algunos de estos panoramas

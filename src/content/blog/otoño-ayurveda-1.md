@@ -20,7 +20,7 @@ Entonces, ¿ qué debemos hacer? recurrir a lo opuesto. si estamos en una estaci
 
 1. Vive la estación. Siempre hay una queja en contra del clima. Mejor abracemos los cambios y vivamoslos. aprovechemos el solcito para un shot de vitamina d, un picnic y una linda caminata, actividades que cuestan mucho en verano y esta estación es ideal para realizarlas.  
 2. No te tapes de harina y panificados. Abracemos al porridge de avena, arroz con leche tibio con canela o también llamado kheer, compotas tibias etc.
-3. La fruta, mejor cocida. nos aporta agua, calor y es más fácil de digerir ya que con el frío el agni ( fuego digestivo) cambia. 
+3. La fruta, mejor cocida. Nos aporta agua, calor y es más fácil de digerir ya que con el frío el agni ( fuego digestivo) cambia. 
 4. Hola materia grasa!!! deja de comprar light, en realidad deja de comprar en el super... pero más allá de eso, es importante que mantengas una buena ingesta de grasa saludable y la estrella es el ghee. Úsalo para cocinar y sumalo a infusiones. 
 5. Automimo con masajes abhyanga y aceite tibio de sésamo. aunque sea dos veces a la semana unos buenos masajes con aceite tibio de sésamo van a cuidar tu piel y repeler el frío...
 6. No realices ayunos prolongados porque incrementan el aire. Mejor nutrite y los ayunos los dejamos para la primavera.

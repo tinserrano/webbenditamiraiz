@@ -19,17 +19,17 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 				max-width: 100%;
 				margin: 0;
 			}
-			.hero-image {
+			/* .hero-image {
 				display: flex;
-				width: 50%;
+				width: 40%;
 				justify-content: center;
+				align-items: center;
 			}
 			.hero-image img {
 				margin: 0 auto;
 				border-radius: 12px;
 				box-shadow: var(--box-shadow);
-				justify-content: center;
-			}
+			} */
 			
 			.prose {
 				width: 720px;
@@ -55,6 +55,23 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 			.last-updated-on {
 				font-style: italic;
 			}
+
+			.instagram-container {
+				display: flex;
+				justify-content: center;
+				width: 100%;
+			}
+
+			.instagram-container blockquote {
+				max-width: 540px;
+				width: 100%;
+			}
+
+			@media (min-width: 640px) {
+				.instagram-container blockquote {
+					max-width: 540px; /* O el ancho máximo que desees */
+				}
+			}
 		</style>
 	</head>
 
@@ -62,9 +79,10 @@ const { title, description, pubDate, updatedDate, heroImage } = Astro.props;
 		<Header />
 		<main>
 			<article>
-				<div class="hero-image">
-					{heroImage && <img width={1020} height={510} src={heroImage} alt="" />}
+				<div class="flex justify-center items-center w-2/4 mx-auto">
+					{heroImage && <img src={heroImage} alt="" />}
 				</div>
+
 				<div class="prose">
 					<div class="title">
 						<div class="date">

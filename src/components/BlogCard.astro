@@ -15,18 +15,17 @@ const { class: className } = Astro.props;
 ---
 <body>
     <section>
-        <h2 class="text-3xl font-bold mb-6 text-center md:text-center">Ultimas entradas del blog</h2>
+        <h2 class="text-3xl font-serif mb-6 text-center md:text-center">Ultimas entradas del blog</h2>
         <div class="grid grid-cols-1 md:grid-cols-3 gap-4">
             {latestBlogPosts.map((post) => (
                 <article class="flex flex-col items-center md:items-center text-center md:text-center">
                     <a href={`/blog/${post.slug}/`} class="flex-1 w-full">
-                        <div class="flex justify-center">
-                            <!-- Centra la imagen en todas las pantallas -->
+                        <div class="flex justify-center p-6">
                             {post.data.heroImage && (
                                 <img src={post.data.heroImage} alt={post.data.title} class="w-96 h-48 mb-2 rounded-lg shadow object-cover"/>
                             )}
                         </div>
-                        <h3 class="text-lg font-semibold mb-2">{post.data.title}</h3>
+                        <h3 class="text-lg font-serif mb-2">{post.data.title}</h3>
                         <!-- Oculta la fecha en pantallas pequeñas -->
                         <div class="text-sm text-gray-500 hidden md:block">
                             <FormattedDate date={post.data.pubDate}/>
@@ -36,7 +35,7 @@ const { class: className } = Astro.props;
             ))}
         </div>
         <div class="flex justify-center pt-6">
-            <a href="/blog" class="inline-block px-4 py-2 bg-blue-500 text-white rounded-lg mr-8 hover:bg-blue-600 transition-colors" data-test="see-all-link">
+            <a href="/blog" class="inline-block px-4 py-2 bg-blue-500 text-white font-serif rounded-lg mr-8 hover:bg-blue-600 transition-colors" data-test="see-all-link">
                 Ver Todos <span class="squiggle">&rarr;</span>
             </a>
         </div>

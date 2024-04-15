@@ -11,28 +11,24 @@ const { class: className } = Astro.props;
 
 <section
     data-testid="hero"
-    class="flex flex-col-reverse items-center justify-center text-center space-y-8 space-y-reverse sm:space-y-0 sm:flex-row sm:items-center sm:justify-center lg:flex-row"
->
-    <div class="p-5 lg:px-20 sm:text-left text-center">
-        <h1 class="text-6xl sm:text-7xl md:text-8xl font-bold mb-2">HOLA!</h1>
-        
-        <h2
-            class="text-xl sm:text-2xl md:text-3xl lg:text-4xl font-monospace mb-10 text-black dark:text-white"
-        >
-            ¡Hola! Mi nombre es Milca, y seré tu próxima Guía Ayurvedica
+    class="flex flex-col sm:flex-row items-center justify-center text-center space-y-4 sm:space-x-8 lg:space-x-20 sm:space-y-0 px-4 sm:px-16 mt-0 sm:mt-0">
+    
+    <!-- Texto con un ancho máximo y ajuste de tamaños de fuente -->
+    <div class="flex-1 mt-4 sm:mt-8 max-w-lg lg:max-w-md sm:text-left text-center px-4 lg:px-8">
+        <h1 class="text-4xl sm:text-3xl md:text-5xl font-bold font-serif mb-2 pt-2">HOLA!</h1>
+        <h2 class="text-sm sm:text-base md:text-xl lg:text-2xl font-serif mb-4 text-black dark:text-white">
+            ¡Hola! bienvenidos a bendita mi raiz, espacio integrativo ayurvedico para el autoconocimiento y autogestion de la salud. <br> Salud pensada desde una mirada dinamica y adaptativa donde buscamos llegar a la raiz de desequilibrios mentales y fisicos para abordarlos de manera amorosa, como nos merecemos. gracias por estar aqui!!! <br> <br>Namaste.
         </h2>
-
     </div>
     
-    <div class="lg:p-8 md:p-4 sm:p-2">
-        <div
-            class="w-48 h-48 sm:w-64 sm:h-64 md:w-96 md:h-96 lg:w-[30rem] lg:h-[30rem] xl:w-[40rem] xl:h-[40rem] mx-auto"
-        >
-            <Image
-            
-
-                <Image src={myImage} class="object-cover rounded-full" alt="Imagen con recorte ovalado asimétrico" style="clip-path: ellipse(42% 43% at 50% 49%);"></Image>
-
+    <!-- Imagen con mayor prioridad visual -->
+    <div class="flex-1 self-center px-4 lg:px-10">
+        <div class="w-full sm:w-2/3 md:w-3/4 lg:w-3/4 xl:w-3/4 mx-auto">
+            <Image src={myImage} class="object-cover rounded-full" alt="Imagen con recorte ovalado asimétrico" style="clip-path: ellipse(42% 43% at 50% 49%);">
         </div>
     </div>
 </section>
+
+
+
+

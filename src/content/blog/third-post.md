@@ -1,28 +1,32 @@
 ---
 title: Anhidra o insomnio
-description: Lorem ipsum dolor sit amet
-pubDate: 2024-04-15T12:55:00.000Z
-heroImage: /uploads/blog-placeholder-2.jpg
+description: "insomnio anhidra dormir ayurveda descanso "
+pubDate: 2024-04-16T15:10:00.000Z
+heroImage: /uploads/insoomnio.webp
 ---
-El dormir es basal para que haya buena salud. Y que ese sueño sea de calidad, más aún. Cuando se
+El descanso y sueño forman parte de las actividades de la vida diaria humana y son fundamentales para la vida, ya que el cuerpo físico, mental y espiritual realizan funciones importantísimas, relacionadas con la reparación y rejuvenecimiento orgánico, que son solo posibles de realizar durante el dormir.
 
-presentan alteraciones del sueño, todo comienza a desajustarse, a desequilibrarse en nuestras vidas.
+En ayurveda el sueño lleva el nombre de nidra y la falta de sueño se denomina anhidra. Anhidra nunca es diagnóstico, sino más bien uno de los principales síntomas y signos de desequilibrios orgánicos mentales y físicos.  
 
-Cómo vivimos, cuáles son nuestras rutinas, guarda una relación directa con la calidad de nuestro
+Anhidra es la condición caracterizada por sentir dificultad para conciliar el sueño, regresar al sueño luego de alguna interrupcion o tener despertares nocturnos o demasiados tempranos sin poder volver a conciliar. La persona no se siente renovada después de levantarse, este desequilibrio Interfiere con la calidad de vida de quien lo padece y en muchas ocasiones del entorno. 
 
-sueño. Por muchos motivos hemos ido desoyendo nuestros ritmos biológicos, ritmos ligados al
+Cuando se presentan alteraciones del sueño, todo comienza a desajustarse, a desequilibrarse en nuestras vidas.
 
-movimiento del planeta alrededor del sol y sobre su eje, los llamados ritmos circadianos. Si por
+Por diferentes motivos e influencias culturales, hemos ido desoyendo nuestros ritmos biológicos. Los seres humanos sincronizamos de manera autónoma  con los ritmos del entorno natural,  como el ritmo circadiano, que regula la integración de una serie de estructuras nerviosas para funciones como el ciclo sueño-vigilia, la temperatura corporal y la secreción de diversas hormonas, durante las 24 horas.
 
-trabajo nocturno, permamentes viajes, o simplemente tener rutinas como acostarnos de madrugada,
+El desequilibrio en el sueño puede ser agudo o cronico y es importante poder tenerlo en cuentra y trasar una linea de tiempo desde su origen para poder comprender y abordarlo de manera integrativa y responsable. 
 
-cenar tarde y pesado, realizar por la noche actividades que nos activen..., estaremos favoreciendo la
+![clasificacion de sueño según su origen ](/uploads/9.png)
 
-aparición de trastornos del sueño puediendo llegar al insomnio. El desequilibrio podrá incluir
+tambien podemos clasificar al sueño según el momento de aparicion. este dato tambien es muy importante para poder generar la estrategias adecuadas a cada desequilibrio. 
 
-alteraciones en la presión arterial, el ritmo cardíaco, la temperatura del cuerpo, el sistema hormonal,
+![clasificacion de anhidra según el momento de aparición ](/uploads/10.png)
 
-el sistema digestivo, el funcionamiento del hígado, estados anímicos, dolores... Nuestro estilo de
+Como si fuese poco, el desequilibrio en el descanso no comienza y termina solo en la conciliacion o no del sueño, sino que repercute en un sinfin de funciones biologicas lo que puede llevarte  a padecer ademas de  alteraciones en la presión arterial, el ritmo cardíaco, la temperatura del cuerpo, el sistema hormonal, sistema digestivo, el funcionamiento del hígado, estados anímicos, dolores, procesos inflamatorios, etc. 
+
+La presencia o ausencia de luminosidad ambiental es fundamental para organizar las fases diurna y nocturna de los ritmos circadianos, sin embargo, los relojes biológicos de las personas son diferentes. 
+
+.. Nuestro estilo de
 
 vida es lo importante. De lo contrario estaremos fuera de sincronía, susceptibles a padecer
 

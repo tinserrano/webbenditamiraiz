@@ -1,16 +1,61 @@
 ---
-title: 'Third post'
-description: 'Lorem ipsum dolor sit amet'
-pubDate: 'Jul 22 2022'
+title: Anhidra o insomnio
+description: Lorem ipsum dolor sit amet
+pubDate: 2024-04-15T12:55:00.000Z
 heroImage: /uploads/blog-placeholder-2.jpg
 ---
+El dormir es basal para que haya buena salud. Y que ese sueño sea de calidad, más aún. Cuando se
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+presentan alteraciones del sueño, todo comienza a desajustarse, a desequilibrarse en nuestras vidas.
 
-Morbi tristique senectus et netus. Id semper risus in hendrerit gravida rutrum quisque non tellus. Habitasse platea dictumst quisque sagittis purus sit amet. Tellus molestie nunc non blandit massa. Cursus vitae congue mauris rhoncus. Accumsan tortor posuere ac ut. Fringilla urna porttitor rhoncus dolor. Elit ullamcorper dignissim cras tincidunt lobortis. In cursus turpis massa tincidunt dui ut ornare lectus. Integer feugiat scelerisque varius morbi enim nunc. Bibendum neque egestas congue quisque egestas diam. Cras ornare arcu dui vivamus arcu felis bibendum. Dignissim suspendisse in est ante in nibh mauris. Sed tempus urna et pharetra pharetra massa massa ultricies mi.
+Cómo vivimos, cuáles son nuestras rutinas, guarda una relación directa con la calidad de nuestro
 
-Mollis nunc sed id semper risus in. Convallis a cras semper auctor neque. Diam sit amet nisl suscipit. Lacus viverra vitae congue eu consequat ac felis donec. Egestas integer eget aliquet nibh praesent tristique magna sit amet. Eget magna fermentum iaculis eu non diam. In vitae turpis massa sed elementum. Tristique et egestas quis ipsum suspendisse ultrices. Eget lorem dolor sed viverra ipsum. Vel turpis nunc eget lorem dolor sed viverra. Posuere ac ut consequat semper viverra nam. Laoreet suspendisse interdum consectetur libero id faucibus. Diam phasellus vestibulum lorem sed risus ultricies tristique. Rhoncus dolor purus non enim praesent elementum facilisis. Ultrices tincidunt arcu non sodales neque. Tempus egestas sed sed risus pretium quam vulputate. Viverra suspendisse potenti nullam ac tortor vitae purus faucibus ornare. Fringilla urna porttitor rhoncus dolor purus non. Amet dictum sit amet justo donec enim.
+sueño. Por muchos motivos hemos ido desoyendo nuestros ritmos biológicos, ritmos ligados al
 
-Mattis ullamcorper velit sed ullamcorper morbi tincidunt. Tortor posuere ac ut consequat semper viverra. Tellus mauris a diam maecenas sed enim ut sem viverra. Venenatis urna cursus eget nunc scelerisque viverra mauris in. Arcu ac tortor dignissim convallis aenean et tortor at. Curabitur gravida arcu ac tortor dignissim convallis aenean et tortor. Egestas tellus rutrum tellus pellentesque eu. Fusce ut placerat orci nulla pellentesque dignissim enim sit amet. Ut enim blandit volutpat maecenas volutpat blandit aliquam etiam. Id donec ultrices tincidunt arcu. Id cursus metus aliquam eleifend mi.
+movimiento del planeta alrededor del sol y sobre su eje, los llamados ritmos circadianos. Si por
 
-Tempus quam pellentesque nec nam aliquam sem. Risus at ultrices mi tempus imperdiet. Id porta nibh venenatis cras sed felis eget velit. Ipsum a arcu cursus vitae. Facilisis magna etiam tempor orci eu lobortis elementum. Tincidunt dui ut ornare lectus sit. Quisque non tellus orci ac. Blandit libero volutpat sed cras. Nec tincidunt praesent semper feugiat nibh sed pulvinar proin gravida. Egestas integer eget aliquet nibh praesent tristique magna.
+trabajo nocturno, permamentes viajes, o simplemente tener rutinas como acostarnos de madrugada,
+
+cenar tarde y pesado, realizar por la noche actividades que nos activen..., estaremos favoreciendo la
+
+aparición de trastornos del sueño puediendo llegar al insomnio. El desequilibrio podrá incluir
+
+alteraciones en la presión arterial, el ritmo cardíaco, la temperatura del cuerpo, el sistema hormonal,
+
+el sistema digestivo, el funcionamiento del hígado, estados anímicos, dolores... Nuestro estilo de
+
+vida es lo importante. De lo contrario estaremos fuera de sincronía, susceptibles a padecer
+
+diferentes desórdenes.
+
+Los ciclos naturales de dormir y despertar están marcados por el día y la noche. Acostarse después
+
+de la medianoche y levantarse después de las 8 o 9 de la mañana, provoca un desajuste general que
+
+con el paso del tiempo acarreará alteraciones que podrán exceder las alteraciones del sueño. Lo
+
+cierto es que con el ritmo que llevamos en occidente, no es sencillo acostarse antes de las 10 de la
+
+noche y levantarse con la salida del sol. Entre las 6 y las 8 de la mañana es el momento ideal para
+
+que los materiales de desecho sean eliminados de nuestro cuerpo, para ir al baño. Lo más probable
+
+es que no haciéndolo así, parte de las heces y de la orina, se retengan y reabsorban. Por ello mucha
+
+gente tiene la sensación de que al ir al baño no termina de evacuar todo lo que debería.
+
+Lo mejor es irse a dormir pronto, antes de las 10 de la noche, y levantarse con la salida del sol,
+
+alrededor de las 6 de la mañana. En invierno, y dependiendo también de la constitución dóshica,
+
+podrá necesitarse dormir algo más, y en el verano, necesitar dormir algo menos. No todos
+
+necesitamos dormir 8 horas, entre 6 y 8 fluctuará la necesidad según el dosha que prevalezca en
+
+nosotros. Dormir menos de la cuenta es malo pero también dormir en exceso, ambos generan
+
+desequilibrio. En ocasiones más se duerme, más aletargado, pesado, embotado y falto de energía se
+
+está. Respecto de dormir en el día, para Ayurveda no es bueno salvo en verano y tampoco debería
+
+ser una siesta larga, con 20 minutos sería suficiente.

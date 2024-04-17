@@ -33,11 +33,9 @@ Veamos algunas de las funciones que realiza el cuerpo durante el descanso.
    Las hormonas relacionadas con el hambre y saciedad, leptina y ghrelina se equilibran durante el descanso. Si no dormimos lo suficiente, el equilibrio de estas hormonas podría alterarse, lo cual explica por qué las personas con insomnio padece desequilibrios en su apetito y digestión.
 
    El cortisol, necesario pero en exceso lleva al cuerpo a situacion de estres,logra decaer en el momento de descanso y sueño, favoreciendo su equilibrio.
-
-
 2. MOVIMIENTO OCULAR
 
-    Este movimiento es el resultado de la limpieza que hacen nuestros párpados. como resultado obtenemos    legañas que se acumulan en las esquinas de los ojos, estas son literalmente las células descartadas junto a  los residuos como bacterias y polvo que los párpados recogen en nuestro contacto con el mundo externo. 
+   Este movimiento es el resultado de la limpieza que hacen nuestros párpados. como resultado obtenemos    legañas que se acumulan en las esquinas de los ojos, estas son literalmente las células descartadas junto a  los residuos como bacterias y polvo que los párpados recogen en nuestro contacto con el mundo externo. 
 3. APRENDIZAJE 
 
    Durante el descanso, se restaura y regenera una zona del cerebro llamada hipocampo almacenamiento de memoria". Mientras duermes, el cerebro organiza la información adquirida durante el día, transformando los conocimientos almacenados en la memoria en corto plazo, a conocimientos almacenados a largo plazo, lo cual ayuda a la retención de la información y, en consecuencia, al aprendizaje.
@@ -45,42 +43,44 @@ Veamos algunas de las funciones que realiza el cuerpo durante el descanso.
 
    El hígado lleva adelante su proceso de desintoxicación por la noche, siempre y cuando se esté en un sueño profundo. las personas con insomnio son más propensas a sufrir hígado graso y desequilibrio hepato-biliares. 
 
-
-
 ##### *Hablemos un poco de Anhidra o insomnio desde el punto de vista ayurvédico.*
 
 Los problemas de insomnio tienen una relación directa con Vata Dosha ya que este al incrementarse genera agitación en el sistema nervioso provocando alteraciones del sueño con mayor tendencia a la  preocupación, inquieta, nerviosa, ansiosa.
 
-##### *¿Porque podemos padecer de insomnio?* 
+##### *¿Porque podemos padecer de insomnio?*
 
 Deshidratación, malnutrición, desequilibrios en los neurotransmisores, intolerancia, procesos inflamatorios, estrés, sobreestimulación sensorial. 
 
-¿como saber si padezco de insomnio? puedes tomar como referencia la clasificación expuesta más arriba y compararlo con tu situación actual. Es importante que no normalizar esta situación y busques ayuda profesional holistica. 
+¿como saber si padezco de insomnio? puedes tomar como referencia la clasificación expuesta más arriba y compararlo con tu situación actual. Es importante que no normalizar esta situación y busques ayuda profesional holística. 
 
 Si deseas realizar un abordaje ayurvédico, puedes reservar un turno aquí. <https://calendly.com/benditamiraiz/55min>
 
-También, hay algunas modificaciones que puedes realizar en casa para apoyar un buen descanso: [](https://calendly.com/benditamiraiz/55min)
+##### También, hay algunas modificaciones que puedes realizar en casa para apoyar un buen descanso: [](https://calendly.com/benditamiraiz/55min)
 
-1. Cenar lo más pronto posible. si tu cena es tarde por cuestiones inmodificables, asegurate mejor de tener una buena merienda y cenar ligero. 
-2.  Evitar los ayunos e irse a dormir con hambre, esto aumenta el aire y espacio y no podras conciliar el sueño si este es de origen vata.
-3. Evitar alimentos secos, crocantes, livianos y fríos y verduras crudas. Elegir buena calidad de materia grasa, nutrirse e hidratarse.
-4. Evitar alimentos fríos y bebe agua tibia a lo largo del día
-5. Evitar estimulantes visuales, auditivos y comestibles/bebibles
-6. Evitar la actividad excesiva a última hora de la tarde y noche
-7. Evitar las actividades estimulantes por la noche: discutir, ver programas violentos o perturbadores.
-8. Ducha de agua tibia y automasajes con aceite de sésamo.
-9. Respirar y mantener la calma
+> *Cenar lo más pronto posible. si tu cena es tarde por cuestiones inmodificables, asegurate mejor de tener una buena merienda y cenar ligero.* 
+>
+> *Evitar los ayunos e irse a dormir con hambre, esto aumenta el aire y espacio y no podras conciliar el sueño si este es de origen vata.*
+>
+> *Evitar alimentos secos, crocantes, livianos y fríos y verduras crudas. Elegir buena calidad de materia grasa, nutrirse e hidratarse.*
+>
+> *Evitar alimentos fríos y bebe agua tibia a lo largo del día*
+>
+> *Evitar estimulantes visuales, auditivos y comestibles/bebibles*
+>
+> *Evitar la actividad excesiva a última hora de la tarde y noche*
+>
+> *Evitar las actividades estimulantes por la noche: discutir, ver programas violentos o perturbadores.*
+>
+> *Ducha de agua tibia y automasajes con aceite de sésamo.*
+>
+> *Respirar y mantener la calma*
 
-Antes de acostarse:
+##### Antes de acostarse:
 
 Puedes beber una leche caliente con cardamomo, canela y nuez moscada. Infusión de hierbas como manzanilla, valeriana, pasiflora. aunque previamente te recomiendo un buen diagnostico para poder elegir la hierba adecuada para ti.
 
 Espero sume esta info a tu vida diaria y te sea de utilidad para ti o para algun familiar que lo padezca.
 
-
-
 hasta el próximo post! 
-
-
 
 Namaste by milu / Bendita mi raíz.

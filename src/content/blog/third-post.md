@@ -51,19 +51,19 @@ Los problemas de insomnio tienen una relación directa con Vata Dosha ya que est
 
 Deshidratación, malnutrición, desequilibrios en los neurotransmisores, intolerancia, procesos inflamatorios, estrés, sobreestimulación sensorial. 
 
-¿como saber si padezco de insomnio? puedes tomar como referencia la clasificación expuesta más arriba y compararlo con tu situación actual. Es importante que no normalizar esta situación y busques ayuda profesional holística. 
+¿Como saber si padezco de insomnio? puedes tomar como referencia la clasificación expuesta más arriba y compararlo con tu situación actual. Es importante que no normalizar esta situación y busques ayuda profesional holística. 
 
 Si deseas realizar un abordaje ayurvédico, puedes reservar un turno aquí. <https://calendly.com/benditamiraiz/55min>
 
 ##### También, hay algunas modificaciones que puedes realizar en casa para apoyar un buen descanso: [](https://calendly.com/benditamiraiz/55min)
 
-*`Si no puedes cenar temprano por cuestiones inmodificables. asegurate mejor de tener una buena merienda y una cena ligera.`*
+*`Si no puedes cenar temprano por cuestiones inmodificables, asegurate mejor de tener una buena merienda y una cena ligera.`*
 
 *`Evitar los ayunos e irse a dormir con hambre, esto aumenta el aire y espacio y no podrás conciliar el sueño si este es de origen vata.`*
 
-*`Evitar alimentos secos, crocantes, livianos y fríos y verduras crudas. Elegir buena calidad de materia grasa, nutrirse e hidratarse.`*
+*`Evitar alimentos secos, crocantes, livianos, fríos y verduras y frutas crudas. Elegir buena calidad de materia grasa, nutrirse e hidratarse.`*
 
-*`Evitar alimentos fríos y bebe agua tibia a lo largo del día`*
+*`Evitar alimentos fríos y beber agua tibia a lo largo del día`*
 
 *`Evitar estimulantes visuales, auditivos y comestibles/bebibles`*
 

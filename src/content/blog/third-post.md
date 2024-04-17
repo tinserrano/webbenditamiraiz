@@ -57,23 +57,23 @@ Si deseas realizar un abordaje ayurvédico, puedes reservar un turno aquí. <htt
 
 ##### También, hay algunas modificaciones que puedes realizar en casa para apoyar un buen descanso: [](https://calendly.com/benditamiraiz/55min)
 
-> *Cenar lo más pronto posible. si tu cena es tarde por cuestiones inmodificables, asegurate mejor de tener una buena merienda y cenar ligero.* 
->
-> *Evitar los ayunos e irse a dormir con hambre, esto aumenta el aire y espacio y no podras conciliar el sueño si este es de origen vata.*
->
-> *Evitar alimentos secos, crocantes, livianos y fríos y verduras crudas. Elegir buena calidad de materia grasa, nutrirse e hidratarse.*
->
-> *Evitar alimentos fríos y bebe agua tibia a lo largo del día*
->
-> *Evitar estimulantes visuales, auditivos y comestibles/bebibles*
->
-> *Evitar la actividad excesiva a última hora de la tarde y noche*
->
-> *Evitar las actividades estimulantes por la noche: discutir, ver programas violentos o perturbadores.*
->
-> *Ducha de agua tibia y automasajes con aceite de sésamo.*
->
-> *Respirar y mantener la calma*
+*Cenar lo más pronto posible. si tu cena es tarde por cuestiones inmodificables, asegurate mejor de tener una buena merienda y cenar ligero.* 
+
+*Evitar los ayunos e irse a dormir con hambre, esto aumenta el aire y espacio y no podras conciliar el sueño si este es de origen vata.*
+
+*Evitar alimentos secos, crocantes, livianos y fríos y verduras crudas. Elegir buena calidad de materia grasa, nutrirse e hidratarse.*
+
+*Evitar alimentos fríos y bebe agua tibia a lo largo del día*
+
+*Evitar estimulantes visuales, auditivos y comestibles/bebibles*
+
+*Evitar la actividad excesiva a última hora de la tarde y noche*
+
+*Evitar las actividades estimulantes por la noche: discutir, ver programas violentos o perturbadores.*
+
+*Ducha de agua tibia y automasajes con aceite de sésamo.*
+
+*Respirar y mantener la calma*
 
 ##### Antes de acostarse:
 

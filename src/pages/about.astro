@@ -4,7 +4,17 @@ import Hero from '../components/Hero.astro';
 
 ---
 <div class="bg-tango-100">
-	
+	<!-- Google tag (gtag.js) -->
+	<script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-9KK0ETTG3X"></script>
+	<script type="text/partytown">
+	window.dataLayer = window.dataLayer || [];
+	function gtag(){dataLayer.push(arguments);}
+	gtag('js', new Date());
+
+	gtag('config', 'G-9KK0ETTG3X');
+	</script>
+
+
 	<Layout
 		title="Sobre Mi "
 		description="Lorem ipsum dolor sit amet"
@@ -32,7 +42,7 @@ import Hero from '../components/Hero.astro';
 		</p>
 
 		<p>
-			En Instagram, estamos asi....
+			En Instagram....
 		</p>
 
 		<div class="flex justify-center mt-8 mb-8">

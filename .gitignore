@@ -16,7 +16,7 @@ pnpm-debug.log*
 # environment variables
 .env
 .env.production
-google_analytics_google.js
+
 
 # macOS-specific files
 .DS_Store

@@ -19,10 +19,7 @@ collections:
     label: "Blog" # Used in the UI
     folder: "src/content/blog" # The path to the folder where the documents are stored
     create: true # Allow users to create new documents in this collection
-    slug:   
-      encoding: "unicode"
-      clean_accents: true
-      sanitize_replacement: "_"
+    slug: "{{year}}-{{month}}-{{day}}_{{slug}}" # Defining the slug template as a string
     fields: # The fields for each document, usually in front matter
       #- { label: "Layout", name: "layout", widget: "hidden", default: "blog" }
       - { label: "Title", name: "title", widget: "string" }

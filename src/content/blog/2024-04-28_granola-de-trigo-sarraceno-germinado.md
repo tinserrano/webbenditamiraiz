@@ -2,7 +2,7 @@
 title: "Granola de trigo sarraceno germinado. Prana para la vida "
 description: "granola prana trigo sarraceno germen "
 pubDate: 2024-04-28T18:53:00.000Z
-heroImage: /uploads/trigo-sarraceno-germinado.jpeg
+heroImage: /uploads/img_6143.jpg
 ---
 Desde el punto de vista ayurvédico, prana representa la energía vital. Prana es el impulso de vida, es crecimiento y expansión . Los alimentos pueden ser pránicos o no y desde este punto de vista cuanto más pránicos sean, es decir puros , van a cumplir una función nutritiva integral aportando  y activando la fuerza y vitalidad, lo contrario a alimentos pobres en prana, como los ultraprocesados. 
 

@@ -2,7 +2,7 @@
 title: "Otoño ayurveda "
 description: "otoño ayurveda frio seco desequilibrios costipacion insomio dolores cronicos "
 pubDate: 2024-03-22T00:56:40.378Z
-heroImage: /uploads/otoño.webp
+heroImage: /uploads/otoño.webp
 ---
 Cuando nombramos otoño, devienen a nuestra mente, imágenes, aromas y sensaciones que nuestro cerebro toma de nuestros recuerdos para anticiparnos a lo que vendrá, en este caso un clima más seco y fresco. 
 

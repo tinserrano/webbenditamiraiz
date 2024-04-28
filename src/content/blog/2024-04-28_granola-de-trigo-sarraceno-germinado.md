@@ -22,7 +22,7 @@ Hoy quiero acercarles esta receta pranica de granola, en parte porque el trigo s
 
 Bien... ahora que tenemos el germen vamos a encender el horno super bajo y colocamos el trigo sarraceno germinado en una placa de horno junto a coco rallado a gusto, canela y yo uso harina de algarroba porque es dulce y maravillosa. Uno todo bien y esparzo sobre la placa, llevo al horno hasta que esté todo seco y crocante. si pones el horno alto se te quemara y te quedará húmedo por dentro, por eso debe ser super bajo para que también se conservan bien las propiedades. 
 
-![](/uploads/img_6153.jpg)
+![](/uploads/img_6143.jpg)
 
 Una vez crocantes dejo enfriar y enfrasco, yo le sumo a esta granola algunos nibs de chocolate y algún fruto seco.
 
@@ -30,4 +30,12 @@ Te dejo aquí el paso a paso en soporte visual para que te anime a hacerla!
 
 
 
-Acompaña esta granola con una rica y madura banana pisada.... es importante que menores de 6 años no ingeran este tipo de alimentos tan pequeños y cocidos tan secos porque pueden ahogarse, si tu elección es convidarles por favor supervisa que coma sentado y no pierdas de vista mientras se alimenta, sino, optemos por licuar el trigo sarraceno una vez seco y obtendremos una harina que podemos agregarla a cualquier preparación o simplemente comerlos frescos sobre preparaciones cocidas.
+Acompaña esta granola con una rica y madura banana pisada.... es importante que menores de 6 años no ingeran este tipo de alimentos tan pequeños y cocidos tan secos porque pueden ahogarse, si tu elección es convidarles por favor supervisa que coma sentado y no pierdas de vista mientras se alimenta, sino, optemos por licuar el trigo sarraceno una vez seco y obtendremos una harina que podemos agregarla a cualquier preparación o simplemente comerlos frescos sobre preparaciones cocidas. 
+
+
+
+Haciendo este alimento accesible, pranico y riquisimo...
+
+
+
+Namaste.

@@ -14,9 +14,9 @@ Los germinados representan un claro ejemplo de alimento pránico: frescos, en pu
 
 > La biodisponibilidad de sus nutrientes se multiplican junto a los minerales, facilitando la digestión de este maravilloso alimento. 
 
-Hoy quiero acercarles esta receta pranica de granola, en parte porque el trigo sarraceno remueve la mucosidad y en esta época del año comenzamos a producir mas moco. Por supuesto que el moco es fundamental, necesario y bienvenido ya que protege nuestro organismo  y atrapan cualquier partícula dañina que ingresa a nuestro organismo entre muchas funciones muy valiosas. Pero también en exceso causa estancamiento, indigestión etc incorporar una vez a la semana alimentos anti mucosidad puede favorecer el equilibrio en tu cuerpo en esta época del año. 
+Hoy quiero acercarles esta receta pranica de granola, en parte porque el trigo sarraceno remueve la mucosidad y en esta época del año comenzamos a producir más moco. Por supuesto que el moco es fundamental, necesario y bienvenido ya que protege nuestro organismo  y atrapan cualquier partícula dañina que ingresa a nuestro organismo entre muchas funciones muy valiosas. Pero también en exceso causa estancamiento, indigestión etc incorporar una vez a la semana alimentos anti mucosidad puede favorecer el equilibrio en tu cuerpo en esta época del año. 
 
-¿Como germinar trigo sarraceno? simplemente lava bien una taza de trigo sarraceno y luego ponlo en un colador de plástico, barro, tela etc  ( intenta no usar metal) debajo coloca un cuenco para que escurra el agua. tapalo con una tela limpia e inodora y coloca en un lugar con algo de claridad. es importante que enjuagues al menos tres veces al día el trigo. al cabo de 3 o 4 dias estara super germinado y listo para usar.
+¿Como germinar trigo sarraceno? simplemente lava bien una taza de trigo sarraceno y dejalo en un cuenco con abundante agua toda una noche. Al dia siguiente, ponlo en un colador de plástico, barro, tela etc  ( intenta no usar metal) debajo coloca un cuenco para que escurra el agua. tapalo con una tela limpia e inodora y coloca en un lugar con algo de claridad. Es importante que enjuagues el trigo  al menos tres veces al día. Al cabo de 3 o 4 dias estara super germinado y listo para usar.
 
 ![](/uploads/colador.webp)
 
@@ -26,16 +26,10 @@ Bien... ahora que tenemos el germen vamos a encender el horno super bajo y coloc
 
 Una vez crocantes dejo enfriar y enfrasco, yo le sumo a esta granola algunos nibs de chocolate y algún fruto seco.
 
-Te dejo aquí el paso a paso en soporte visual para que te anime a hacerla! 
-
-
+Te dejo aquí el paso a paso en soporte visual para que te anime a hacerla! <https://www.instagram.com/reel/C6UuUt-OkGF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==>[](https://www.instagram.com/reel/C6UuUt-OkGF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)[](https://www.instagram.com/reel/C6UuUt-OkGF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==)
 
 Acompaña esta granola con una rica y madura banana pisada.... es importante que menores de 6 años no ingeran este tipo de alimentos tan pequeños y cocidos tan secos porque pueden ahogarse, si tu elección es convidarles por favor supervisa que coma sentado y no pierdas de vista mientras se alimenta, sino, optemos por licuar el trigo sarraceno una vez seco y obtendremos una harina que podemos agregarla a cualquier preparación o simplemente comerlos frescos sobre preparaciones cocidas. 
 
-
-
 Haciendo este alimento accesible, pranico y riquisimo...
-
-
 
 Namaste.

@@ -1,10 +1,10 @@
 ---
-title: Te purgnte
+title: Té purgante
 description: "te purgante ayurveda enfermar sanar "
 pubDate: 2024-05-13T19:49:00.000Z
-heroImage: /uploads/img_6642.jpg
+heroImage: /uploads/hierbas.1d2f14cd.jpg
 ---
-Antes, cuando vivíamos en aldeas y chozas y el contacto con la naturaleza era profundo y respetuoso, ante los primeros signos o síntomas de enfermedad se recurria a realizar una purga. 
+Antes, cuando vivíamos en aldeas y chozas y el contacto con la naturaleza era profundo y respetuoso, ante los primeros signos o síntomas de enfermedad se recuría a realizar una purga.i 
 
 Desde el punto de vista ayurvedico, cuando se produce un desequilibrio y nos enfermamos, quiere decir que tenemos AMA o toxinas acumuladas y en este sentido se aconseja realizar algunos de los procesos de panchakarma o realizarlo de manera completa con el fin de eliminar toxinas y retornar al equilibrio físico-mental y espiritual.  
 
@@ -28,14 +28,10 @@ Es importante realizar una dieta tibia, evitar alimentos frios, secos y crudos. 
 
 Podemos colocar un cajon de madera en el baño para que al sentarnos en el hinodoro apoyemos los pies en el cajon para favorecer la posicin fisiologica de evacuacion.
 
-
-
 ![](/uploads/img_6642.jpg)
 
 Acompaña y ayuda a tu cuerpo a sanar.  
 
 Namaste
-
-
 
 MILU

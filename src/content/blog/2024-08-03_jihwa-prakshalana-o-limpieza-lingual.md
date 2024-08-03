@@ -2,7 +2,7 @@
 title: '"Jihwa Prakshalana" o limpieza lingual'
 description: "limpieza lingual jihwa prakshalana toxinas ama ayurveda "
 pubDate: 2024-08-03T19:02:00.000Z
-heroImage: /uploads/limiar-la-lengua-.jpeg
+heroImage: /uploads/limpiador-de-lengua-de-cobre-raspador-de-lengua-pr-ctico-herramienta-de-limpieza-con-caja-dorado.webp
 ---
 *`La lengua, el órgano de la comunicación.`* 
 

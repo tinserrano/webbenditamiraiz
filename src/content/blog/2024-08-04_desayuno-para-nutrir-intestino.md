@@ -38,8 +38,6 @@ Cucharea en familia 🌱
 
 `Sintonizar y equilibrarnos con el entorno`
 
-•
-
 Namaste 🪷
 
 Milu!

@@ -13,33 +13,31 @@ El nombre de la salvia deriva del verbo latín salvere, que significa "salvar" o
 
 En exceso aumenta nuestro fuego digestivo con lo cual deberíamos prestar atención prevenir tomarla en procesos inflamatorios, acidez, fiebre alta y en verano… (veremos mas en efectos adversos)
 
-> `Alivia las digestiones lentas y pesadas: Si comes un poquito y ya te sientes super indigesto, esta indigestión puede deberse a un aumento del moco estomacal y disminución del fuego digestivo, incorporar salvia sobre todo en épocas de fin de invierno e inicio de primavera es ideal.`
->
-> `Favorece la regulación de azúcar en sangre ya que estimula a rasa dhatu agni “ metabolismo de la glucosa”`
->
-> `Disminuye exceso de salivación que se produce por indigestiones :`
->
-> `Estimula la secreción de bilis.`
->
-> `Ayuda a tratar los desórdenes hormonales: por la presencia de fuego y  efecto estrogénico.`
->
-> `Lo puedes usar en gargarismos para prevenir y combatir infección de garganta y como lavado en llagas.`
->
-> `Salvia y neurología:Estimula y ayuda a conservar la memoria ya que contiene un inhibidor de colinesterasa, enzima responsable de catalización de la hidrólisis del neurotransmisor acetilcolina. El nivel bajo de acetilcolina en el cerebro se asocia a problemas de memoria. ¡Pero ojo! el procesos de diagnóstico de parkinson o con la enfermedad ya instalada regular su uso, sabemos que a mayor acetilcolina menos dopamina, y si tienes disminución en el neurotransmisor dopamina seria mejor evitarla o evitar su consumo excesivo.`
+`Alivia las digestiones lentas y pesadas: Si comes un poquito y ya te sientes super indigesto, esta indigestión puede deberse a un aumento del moco estomacal y disminución del fuego digestivo, incorporar salvia sobre todo en épocas de fin de invierno e inicio de primavera es ideal.`
+
+`Favorece la regulación de azúcar en sangre ya que estimula a rasa dhatu agni “ metabolismo de la glucosa”`
+
+`Disminuye exceso de salivación que se produce por indigestiones :`
+
+`Estimula la secreción de bilis.`
+
+`Ayuda a tratar los desórdenes hormonales: por la presencia de fuego y  efecto estrogénico.`
+
+`Lo puedes usar en gargarismos para prevenir y combatir infección de garganta y como lavado en llagas.`
+
+`Salvia y neurología:Estimula y ayuda a conservar la memoria ya que contiene un inhibidor de colinesterasa, enzima responsable de catalización de la hidrólisis del neurotransmisor acetilcolina. El nivel bajo de acetilcolina en el cerebro se asocia a problemas de memoria. ¡Pero ojo! el procesos de diagnóstico de parkinson o con la enfermedad ya instalada regular su uso, sabemos que a mayor acetilcolina menos dopamina, y si tienes disminución en el neurotransmisor dopamina seria mejor evitarla o evitar su consumo excesivo.`
 
 `Contraindicaciones:`
 
 * En los procesos de  constipación, ansiedad e insomnio es mejor evitarla.
-
-> En periodos de acidez, afecciones de hígado y vesícula, evitarla.
-
+* En periodos de acidez, afecciones de hígado y vesícula, evitarla.
 * La salvia reduce las secreciones del cuerpo por su actividad reductora , saca el exceso de moco, seca llagas, úlceras y retiene hemorragias. 
 * Evitar durante el embarazo y lactancia: ya que su actividad estrogénica estimula el útero
 * Evitar en casos de insuficiencia renal: por su alto contenido en tuyona.
 
-> `¿Cuando me tomo un tecito de salvia?`
->
-> Pues cuando tenemos enfermedades causadas por  frío como resfriados, gripes, exceso de moco blanco, leucorrea. Para activar el sistema circulatorio y aumentar el calor corporal en procesos de mayor inapetencia acompañada de aumento de peso, indigestión. cuando nos sentimos letárgicos a nivel físico y mental. 
+`¿Cuando me tomo un tecito de salvia?`
+
+Pues cuando tenemos enfermedades causadas por  frío como resfriados, gripes, exceso de moco blanco, leucorrea. Para activar el sistema circulatorio y aumentar el calor corporal en procesos de mayor inapetencia acompañada de aumento de peso, indigestión. cuando nos sentimos letárgicos a nivel físico y mental. 
 
 Si el tecito lo bebemos para aliviar región superior ( pulmones, garganta etc) es importante beber este té lejos de las comidas y preferentemente antes.
 

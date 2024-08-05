@@ -51,7 +51,7 @@ Dejar que hierva durante 15 minutos con cacerola tapada
 
 Después se deja reposar durante otros 5 minutos.
 
-bebelo en horario kapha: 6 a 10 am y pm
+*`Bebelo en horario kapha: 6 a 10 am y pm`*
 
 Si se va a usar para hacer gárgaras, se puede utilizar la misma infusión. Se recomienda hacerlas durante 15 minutos dos veces al día. 
 

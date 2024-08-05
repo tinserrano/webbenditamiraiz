@@ -11,7 +11,7 @@ El nombre de la salvia deriva del verbo latín salvere, que significa "salvar" o
 
 🌱 Energeticamente hablando, la salvia es : picante ,amarga , astringente y calorífica. 
 
-En exceso aumenta nuestro fuego digestivo con lo cual deberíamos prestar atención prevenir tomarla en procesos inflamatorios, acidez, fiebre alta y en verano… (veremos mas en efectos adversos)
+En exceso aumenta nuestro fuego digestivo con lo cual deberíamos prestar atención prevenir tomarla en procesos inflamatorios, acidez, fiebre alta y en verano… (veremos más en efectos adversos)
 
 Alivia las digestiones lentas y pesadas: Si comes un poquito y ya te sientes super indigesto, esta indigestión puede deberse a un aumento del moco estomacal y disminución del fuego digestivo, incorporar salvia sobre todo en épocas de fin de invierno e inicio de primavera es ideal.
 

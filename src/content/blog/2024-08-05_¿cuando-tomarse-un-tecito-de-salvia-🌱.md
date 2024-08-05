@@ -13,19 +13,19 @@ El nombre de la salvia deriva del verbo latín salvere, que significa "salvar" o
 
 En exceso aumenta nuestro fuego digestivo con lo cual deberíamos prestar atención prevenir tomarla en procesos inflamatorios, acidez, fiebre alta y en verano… (veremos mas en efectos adversos)
 
-`Alivia las digestiones lentas y pesadas: Si comes un poquito y ya te sientes super indigesto, esta indigestión puede deberse a un aumento del moco estomacal y disminución del fuego digestivo, incorporar salvia sobre todo en épocas de fin de invierno e inicio de primavera es ideal.`
+Alivia las digestiones lentas y pesadas: Si comes un poquito y ya te sientes super indigesto, esta indigestión puede deberse a un aumento del moco estomacal y disminución del fuego digestivo, incorporar salvia sobre todo en épocas de fin de invierno e inicio de primavera es ideal.
 
-`Favorece la regulación de azúcar en sangre ya que estimula a rasa dhatu agni “ metabolismo de la glucosa”`
+Favorece la regulación de azúcar en sangre ya que estimula a rasa dhatu agni “ metabolismo de la glucosa”
 
-`Disminuye exceso de salivación que se produce por indigestiones :`
+Disminuye exceso de salivación que se produce por indigestiones :
 
-`Estimula la secreción de bilis.`
+Estimula la secreción de bilis.
 
-`Ayuda a tratar los desórdenes hormonales: por la presencia de fuego y  efecto estrogénico.`
+Ayuda a tratar los desórdenes hormonales: por la presencia de fuego y  efecto estrogénico.
 
-`Lo puedes usar en gargarismos para prevenir y combatir infección de garganta y como lavado en llagas.`
+Lo puedes usar en gargarismos para prevenir y combatir infección de garganta y como lavado en llagas.
 
-`Salvia y neurología:Estimula y ayuda a conservar la memoria ya que contiene un inhibidor de colinesterasa, enzima responsable de catalización de la hidrólisis del neurotransmisor acetilcolina. El nivel bajo de acetilcolina en el cerebro se asocia a problemas de memoria. ¡Pero ojo! el procesos de diagnóstico de parkinson o con la enfermedad ya instalada regular su uso, sabemos que a mayor acetilcolina menos dopamina, y si tienes disminución en el neurotransmisor dopamina seria mejor evitarla o evitar su consumo excesivo.`
+Salvia y neurología:Estimula y ayuda a conservar la memoria ya que contiene un inhibidor de colinesterasa, enzima responsable de catalización de la hidrólisis del neurotransmisor acetilcolina. El nivel bajo de acetilcolina en el cerebro se asocia a problemas de memoria. ¡Pero ojo! el procesos de diagnóstico de parkinson o con la enfermedad ya instalada regular su uso, sabemos que a mayor acetilcolina menos dopamina, y si tienes disminución en el neurotransmisor dopamina seria mejor evitarla o evitar su consumo excesivo.
 
 `Contraindicaciones:`
 
@@ -41,7 +41,7 @@ Pues cuando tenemos enfermedades causadas por  frío como resfriados, gripes, ex
 
 Si el tecito lo bebemos para aliviar región superior ( pulmones, garganta etc) es importante beber este té lejos de las comidas y preferentemente antes.
 
-¿Cómo prepararlo?
+`¿Cómo prepararlo?`
 
 3 a 5 hojas secas de salvia para cada taza de agua. 
 

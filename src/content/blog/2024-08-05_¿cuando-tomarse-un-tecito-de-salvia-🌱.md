@@ -1,5 +1,5 @@
 ---
-title: ¿Cuando tomarse un tecito de salvia?🌱
+title: ¿Cuándo tomarse un tecito de salvia?🌱
 description: te infusion decoccion salvia seca fresca kapha indigestion
   alzheimer parkinson ayurveda estrogenos
 pubDate: 2024-08-05T09:02:00.000Z

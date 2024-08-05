@@ -5,7 +5,7 @@ description: te infusion decoccion salvia seca fresca kapha indigestion
 pubDate: 2024-08-05T09:02:00.000Z
 heroImage: /uploads/te-salvia.avif
 ---
-Holi Milu por aquí para contarles y compartir un poquito de la sabiduría de la salvia para que sepan cuándo y cómo usarla a modo terapéutico 🌱
+Holi Milu por aquí para contarles y compartir un poquito la sabiduría de la salvia para que sepan cuándo y cómo usarla a modo terapéutico 🌱
 
 El nombre de la salvia deriva del verbo latín salvere, que significa "salvar" o "curar".
 
@@ -17,17 +17,15 @@ En exceso aumenta nuestro fuego digestivo con lo cual deberíamos prestar atenci
 >
 > `Favorece la regulación de azúcar en sangre ya que estimula a rasa dhatu agni “ metabolismo de la glucosa”`
 >
-> `Disminuye exceso de salivación que se produce por indigestiones : `
+> `Disminuye exceso de salivación que se produce por indigestiones :`
 >
 > `Estimula la secreción de bilis.`
 >
 > `Ayuda a tratar los desórdenes hormonales: por la presencia de fuego y  efecto estrogénico.`
 >
-> `Lo puedes usar en gargarismos para prevenir y combatir infección de garganta y como lavado en llagas. `
+> `Lo puedes usar en gargarismos para prevenir y combatir infección de garganta y como lavado en llagas.`
 >
-> `Salvia y neurología:Estimula y ayuda a conservar la memoria ya que contiene un inhibidor de colinesterasa, enzima responsable de catalización de la hidrólisis del neurotransmisor acetilcolina. El nivel bajo de acetilcolina en el cerebro se asocia a problemas de memoria. ¡Pero ojo! el procesos de diagnóstico de parkinson o con la enfermedad ya instalada regular su uso, sabemos que a mayor acetilcolina menos dopamina, y si tienes disminución en el neurotransmisor dopamina seria mejor evitarla o evitar su consumo excesivo. `
-
-
+> `Salvia y neurología:Estimula y ayuda a conservar la memoria ya que contiene un inhibidor de colinesterasa, enzima responsable de catalización de la hidrólisis del neurotransmisor acetilcolina. El nivel bajo de acetilcolina en el cerebro se asocia a problemas de memoria. ¡Pero ojo! el procesos de diagnóstico de parkinson o con la enfermedad ya instalada regular su uso, sabemos que a mayor acetilcolina menos dopamina, y si tienes disminución en el neurotransmisor dopamina seria mejor evitarla o evitar su consumo excesivo.`
 
 `Contraindicaciones:`
 
@@ -39,7 +37,7 @@ En exceso aumenta nuestro fuego digestivo con lo cual deberíamos prestar atenci
 * Evitar durante el embarazo y lactancia: ya que su actividad estrogénica estimula el útero
 * Evitar en casos de insuficiencia renal: por su alto contenido en tuyona.
 
-> `¿Cuando me tomo un tecito de salvia? `
+> `¿Cuando me tomo un tecito de salvia?`
 >
 > Pues cuando tenemos enfermedades causadas por  frío como resfriados, gripes, exceso de moco blanco, leucorrea. Para activar el sistema circulatorio y aumentar el calor corporal en procesos de mayor inapetencia acompañada de aumento de peso, indigestión. cuando nos sentimos letárgicos a nivel físico y mental. 
 
@@ -64,7 +62,5 @@ Ahora cuando arranca la primavera es bueno tenerla en la alacena sobretodo si lo
 Namaste salvia💜
 
 Namaste lectores!
-
-
 
 Milu💜

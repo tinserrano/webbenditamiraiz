@@ -35,6 +35,8 @@ Salvia y neurología:Estimula y ayuda a conservar la memoria ya que contiene un 
 * Evitar durante el embarazo y lactancia: ya que su actividad estrogénica estimula el útero
 * Evitar en casos de insuficiencia renal: por su alto contenido en tuyona.
 
+
+
 `¿Cuando me tomo un tecito de salvia?`
 
 Pues cuando tenemos enfermedades causadas por  frío como resfriados, gripes, exceso de moco blanco, leucorrea. Para activar el sistema circulatorio y aumentar el calor corporal en procesos de mayor inapetencia acompañada de aumento de peso, indigestión. cuando nos sentimos letárgicos a nivel físico y mental. 

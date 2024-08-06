@@ -20,9 +20,9 @@ En la medicina ayurvédica, el ghee se considera un alimento altamente nutritivo
 * Ayuda a la Hidratación de los tejidos: El ghee es conocido por su capacidad para hidratar y nutrir los dhatus corporales (tejidos del cuerpo) incluyendo la piel, los huesos y los músculos.
 * Es tridosha: En la Ayurveda, se cree que el ghee ayuda a equilibrar los tres doshas (Vata, Pitta, y Kapha).
 
-> Mejora la Claridad Mental: El ghee se considera beneficioso para el cerebro y la mente. Se dice que promueve la claridad mental y la memoria.
->
-> Detoxificación: El ghee es visto como un agente que ayuda a eliminar toxinas del cuerpo, especialmente cuando se combina con especias y hierbas medicadas.
+Mejora la Claridad Mental: El ghee se considera beneficioso para el cerebro y la mente. Se dice que promueve la claridad mental y la memoria.
+
+Detoxificación: El ghee es visto como un agente que ayuda a eliminar toxinas del cuerpo, especialmente cuando se combina con especias y hierbas medicadas.
 
 Es importante recordar que los efectos pueden variar según el individuo.
 

@@ -62,11 +62,11 @@ Hierbas: En Ayurveda, se utilizan hierbas adaptógenas como la ashwagandha y el 
 
 ***`Sumate al taller de cuidados de las glándulas suprarrenales desde un enfoque de rasayana`*** 
 
-***`ingresa en el siguiente link para ver tod ala info!`*** <https://tr.ee/MzKkYX9xb->
+***`ingresa en el siguiente link para ver toda la info!`*** <https://tr.ee/MzKkYX9xb->
 
 ✨Este es un taller integrativo desde la mirada ayurvédica y mi experiencia en la clínica neurológica, donde buscamos vincularnos con el cuerpo físico, mental y espiritual al servicio y cuidado orgánico. 
 
-✨ Lo realizamos desde un enfoque Rasayana "Terapia de rejuvenecimiento” ✨
+✨ Lo realizamos desde un enfoque Rasayana "Terapia de rejuvenecimiento” 
 
  Rasayana es una disciplina dentro del Ayurveda que se enfoca en la revitalización integral del cuerpo y la mente, con el objetivo de promover una vida larga y saludable.
 
@@ -90,8 +90,10 @@ Este taller no tiene alimentos restringidos, más bien, buscamos incorporar alim
 
 Las glándulas suprarrenales están profundamente interrelacionadas con el dosha Vata en Ayurveda. Mantener un equilibrio en Vata a través de una dieta adecuada, rutinas saludables y el uso de hierbas adaptógenas puede promover una función saludable de las glándulas suprarrenales y un bienestar general.
 
-
-
 Sumate! 
 
-https://tr.ee/MzKkYX9xb-
+click aqui:  https://tr.ee/MzKkYX9xb-
+
+
+
+Con amor, Milu.

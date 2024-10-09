@@ -18,8 +18,10 @@ Un desequilibrio entre estos dos tipos de colesterol puede llevar a problemas de
 
 Para entender el colesterol desde el punto de vista ayurvedico, hay varios conceptos claves: 
 
-* Doshas: En Ayurveda, los tres doshas (vata, pitta y kapha) son fuerzas energéticas que regulan las funciones del cuerpo. Una disminucion de pitta y exceso de kapha, se asocia con la pesadez la indigestion y la acumulacion de alimentos no digeridos. 
-* Ama: Esta es la toxicidad que resulta de una digestión inadecuada por una disminucion del fuego digestivo. Si el ama se acumula, puede afectar el sistema cardiovascular aumentando procesos inflamatorios y acumulacion de toxinas que dañan los organos y que el cuerpo intenta proteger conservando niveles altos de colesterol.
+Doshas: En Ayurveda, los tres doshas (vata, pitta y kapha) son fuerzas energéticas que regulan las funciones del cuerpo. Una disminucion de pitta y exceso de kapha, se asocia con la pesadez la indigestion y la acumulacion de alimentos no digeridos. 
+
+Ama: Esta es la toxicidad que resulta de una digestión inadecuada por una disminucion del fuego digestivo. Si el ama se acumula, puede afectar el sistema cardiovascular aumentando procesos inflamatorios y acumulacion de toxinas que dañan los organos y que el cuerpo intenta proteger conservando niveles altos de colesterol.
+
 * Causas: El hipercolesterol puede ser provocado por una dieta inadecuada que genera indigestion, sedentarismo, alteraciones geneticas, estrés y otros factores que aumentan kapha y por consiguiente una mal nutricion que altera la produccion de colageno en las capas de las arterias y genera procesos inflamatorios que el cuerpo intenta reparar reteniendo colesterol in situ como parche de proteccion. 
 
 Tratamiento: Las recomendaciones ayurvédicas incluyen cambios en el estilo de vida, desde alimentos, ejercicio fisico, hierbas, descanso y sueño, autocuidado y prácticas de estilo de vida que promuevan una adecuada digestion de alimentos y eliminacion de desechos.
@@ -29,8 +31,6 @@ Si necesitas realizar abordaje para este desequilibrio o prevencion del mismo, s
 <https://linktr.ee/benditamiraiz>
 
 Namaste
-
-
 
 Milu![](https://linktr.ee/benditamiraiz)
 

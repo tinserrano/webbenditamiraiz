@@ -1,5 +1,5 @@
 ---
-title: " Hipercolesterolemia desde la perspectiva ayurvédica."
+title: " Hiperlipidemia desde la perspectiva Ayurvédica."
 description: colesterol lipidos ayurveda abordaje
 pubDate: 2024-10-09T16:19:00.000Z
 heroImage: /uploads/post-hipercoles.webp
